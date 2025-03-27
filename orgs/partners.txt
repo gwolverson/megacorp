@@ -1,8 +1,4 @@
 partner list
-<<<<<<< HEAD
 SalesInc
 TheStartup
-=======
-
-TheStartup
->>>>>>> dd8abb7 (F: deleting customer and partner)
+ClosedML
